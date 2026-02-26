@@ -1,5 +1,8 @@
 # Kanji LoRA
 
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5f2bfcff-1447-449b-acb2-f008b47c7741" />
+
+
 Fine-tunes Stable Diffusion v1.5 with LoRA to generate kanji images from English meaning prompts (e.g. `"music"`, `"water"`).
 
 Some sample outputs can be found in `generated_kanji/`.
