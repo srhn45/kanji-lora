@@ -1,0 +1,11 @@
+[project]
+name = "kanjo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cairosvg>=2.8.2",
+    "lxml>=6.0.2",
+    "numpy>=2.2.6",
+]

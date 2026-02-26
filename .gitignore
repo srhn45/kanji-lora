@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+.env
+
+# Data & generated dirs
+kanji/
+kanjivg_clean_svg/
+kanjivg_png/
+
+# Models & checkpoints
+*.pt
+*.pth
+*.safetensors
+lora-kanji/
+
+# Misc
+.DS_Store
+*.log
